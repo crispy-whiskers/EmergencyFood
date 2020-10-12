@@ -1,0 +1,25 @@
+{
+  "name": "emergencyfood",
+  "version": "1.0.0",
+  "description": "Genshin Impact Loot Rotation Announcer for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladsfdsfs/EmergencyFood.git"
+  },
+  "keywords": [
+    "GenshinImpact"
+  ],
+  "author": "ladsfdsfs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladsfdsfs/EmergencyFood/issues"
+  },
+  "homepage": "https://github.com/ladsfdsfs/EmergencyFood#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
