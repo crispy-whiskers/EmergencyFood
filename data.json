@@ -1,0 +1,60 @@
+{
+    "characters": [
+        "Amber",
+        "Barbara",
+        "Beidou",
+        "Bennett",
+        "Chongyun",
+        "Diluc",
+        "Fischl",
+        "Jean",
+        "Kaeya",
+        "Keqing",
+        "Klee",
+        "Lisa",
+        "Mona",
+        "Ningguang",
+        "Noelle",
+        "Qiqi",
+        "Razor",
+        "Sucrose",
+        "Traveler (Anemo)",
+        "Traveler (Geo)",
+        "Venti",
+        "Xiangling",
+        "Xiao",
+        "Xingqiu"
+    ],
+    "talents":{
+        "mondstadt":{
+            "schedule":{
+                "monday":["Amber", "Barbara", "Sucrose", "Traveler (Anemo)", "Traveler (Geo)"],
+                "tuesday":["Bennett", "Diluc", "Mona", "Noelle", "Razor"],
+                "wednesday":["Fischl", "Kaeya", "Lisa", "Venti"],
+                "thursday":["Amber", "Barbara", "Sucrose", "Traveler (Anemo)", "Traveler (Geo)"],
+                "friday":["Bennett", "Diluc", "Mona", "Noelle", "Razor"],
+                "saturday":["Fischl", "Kaeya", "Lisa", "Venti"],
+                "sunday":["All Mondstadt Characters"]
+
+            },
+            "domain":"Forsaken Rift"
+        },
+        "liyue":{
+            "schedule":{
+                "monday":["Keqing", "Ningguang", "Qiqi"],
+                "tuesday":["Chongyun", "Xiangling"],
+                "wednesday":["Beidou", "Xingqiu"],
+                "thursday":["Keqing", "Ningguang", "Qiqi"],
+                "friday":["Chongyun", "Xiangling"],
+                "saturday":["Beidou", "Xingqiu"],
+                "sunday":["All Liyue Characters"]
+            },
+            "domain":"Taishan Mansion"
+        }
+    },
+    "weapons":{
+        "monday":["Aquila Favonia","Cool Steel","Favonius Codex","Favonius Sword","Ferrous Shadow","Magic Guide","Raven Bow","The Bell","The Stringless","The Viridescent Hunt"],
+        "thursday":["Aquila Favonia","Cool Steel","Favonius Codex","Favonius Sword","Ferrous Shadow","Magic Guide","Raven Bow","The Bell","The Stringless","The Viridescent Hunt"]
+
+    }
+}

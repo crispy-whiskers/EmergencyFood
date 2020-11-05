@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ladsfdsfs/EmergencyFood#readme",
   "dependencies": {
+    "axios": "^0.20.0",
     "discord.js": "^12.3.1"
   }
 }
